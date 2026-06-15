@@ -757,7 +757,7 @@ git branch -M $(git remote show origin | grep "HEAD branch" | cut -d " " -f5) 2>
 **建议：**  
 1. 检查本机能否直连上述域名 → 能通设 `DIRECT`，不通设 `PROXY`  
 2. **运行程序时关闭全局模式 / TUN 模式**  
-3. 不确定网络情况就直接**退出代理工具再运行 / 设置强制所有网络请求直连**
+3. 不确定网络情况就直接**退出代理工具再运行**
 
 </details>
 
