@@ -1,5 +1,10 @@
-74.82.199.200:10344#Asia Pacific
-206.190.232.61:10343#Asia Pacific
+74.211.110.47:2443#North America
+74.211.110.254:443#North America
+45.62.113.95:4433#North America
+199.19.111.78:443#North America
+45.62.119.89:51443#North America
+74.211.98.99:443#North America
 199.193.125.72:443#North America
-199.180.116.11:443#North America
+216.24.178.29:443#North America
 64.64.234.88:443#North America
+199.180.113.15:443#North America
