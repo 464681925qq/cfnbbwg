@@ -1,4 +1,4 @@
-﻿config.json
-git_sync.ps1
+config.json
 git_sync.sh
+git_sync.ps1
 __pycache__/
