@@ -1,1 +1,5 @@
-
+74.82.199.200:10344#Asia Pacific
+206.190.232.61:10343#Asia Pacific
+199.193.125.72:443#North America
+199.180.116.11:443#North America
+64.64.234.88:443#North America
