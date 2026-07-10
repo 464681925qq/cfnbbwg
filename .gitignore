@@ -2,3 +2,4 @@ config.json
 git_sync.sh
 git_sync.ps1
 __pycache__/
+git_sync.ps1
